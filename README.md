@@ -3,7 +3,7 @@
 
 - 📚 J'étudie à l'[université de Caen](http://ufrdessciences.unicaen.fr)
 
-- 🔭 Actuellement je travaille sur mon jeu web : [Across Galaxies](https://mfr-cfta-ferte.com)
+- 🔭 Actuellement je travaille sur mon jeu web : [Across Galaxies](https://github.com/Lenitra/AcrossGalaxies)
 
 - 💬 Demandez-moi de l'aide sur **du développement web ou du python**
 
