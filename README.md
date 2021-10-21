@@ -4,9 +4,7 @@
 - 📚 J'étudie à l'[université de Caen](http://ufrdessciences.unicaen.fr)
 
 - 🔭 Actuellement je travaille sur mon jeu web : [Across Galaxies](http://Across-Galaxies.fr)
-
-- 💬 Demandez-moi de l'aide sur **du développement web ou du python**
-
+- 
 
 <h3 align="left">Mes langages et outils :</h3>
 <p align="left">
