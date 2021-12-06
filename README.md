@@ -19,5 +19,5 @@
 <img src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png" alt="kotlin" width="50" height="40"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lenitra&show_icons=true&locale=en&layout=compact" alt="fo0xx" /></p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lenitra&show_icons=true&theme=radical)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lenitra&show_icons=true&locale=en&layout=compact" alt="Lenitra" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lenitra&show_icons=true&theme=radical">
