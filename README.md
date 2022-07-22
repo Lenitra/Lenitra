@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis Thomas Lemartinel</h1>
-<h3 align="center">Un étudiant en 2e année licence informatique</h3>
+<h3 align="center">Un étudiant en 3e année licence informatique</h3>
 
 - 📚 J'étudie à l'[université de Caen](http://ufrdessciences.unicaen.fr)
 
