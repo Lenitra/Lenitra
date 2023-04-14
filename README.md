@@ -1,7 +1,6 @@
 <h1 align="center">Salut 👋, je suis Thomas Lemartinel</h1>
-<h3 align="center">Un étudiant en 3e année licence informatique</h3>
+<h3 align="center">Je suis titulaire d'un licence informatique</h3>
 
-- 📚 J'étudie à l'[université de Caen](http://ufrdessciences.unicaen.fr)
 
 
 <h3 align="left">Mes langages et outils :</h3>
@@ -16,6 +15,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 <img src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png" alt="kotlin" width="50" height="40"/>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lenitra&show_icons=true&locale=en&layout=compact" alt="Lenitra" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lenitra&show_icons=true&theme=radical">
