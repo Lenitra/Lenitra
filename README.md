@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-Xz5rhjygdHz1sk8WdceoQoojKU5ZOGk5M8W1C6U5pdkfo1lvjrqGMulEJ0Yi7lLsn4x4ZjP9Gh4TpzHcJrDhbg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
 # Hi there! 👋
 
 I'm Thomas Lemartinel, a web and game developer with experience in C#, Python, HTML, CSS, and JavaScript. 
@@ -9,12 +13,14 @@ I'm Thomas Lemartinel, a web and game developer with experience in C#, Python, H
 - 😄 Pronouns: He.
 
 ## My Skills
+## My Skills
 
-- **C#**
-- **Python** 
-- **HTML** 
-- **CSS** 
-- **JavaScript** 
+- <i class="fab fa-csharp"></i> **C#:** [Skill level and/or years of experience].
+- <i class="fab fa-python"></i> **Python:** [Skill level and/or years of experience].
+- <i class="fab fa-html5"></i> **HTML:** [Skill level and/or years of experience].
+- <i class="fab fa-css3-alt"></i> **CSS:** [Skill level and/or years of experience].
+- <i class="fab fa-js"></i> **JavaScript:** [Skill level and/or years of experience].
+
 
 
 ## Connect with Me
