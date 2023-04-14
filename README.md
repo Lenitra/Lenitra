@@ -1,6 +1,5 @@
-<head>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-Xz5rhjygdHz1sk8WdceoQoojKU5ZOGk5M8W1C6U5pdkfo1lvjrqGMulEJ0Yi7lLsn4x4ZjP9Gh4TpzHcJrDhbg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-</head>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 # Hi there! 👋
 
@@ -12,14 +11,19 @@ I'm Thomas Lemartinel, a web and game developer with experience in C#, Python, H
 - 📫 How to reach me: by Discord or by mail : thomaslemartinel@gmail.com.
 - 😄 Pronouns: He.
 
-## My Skills
-## My Skills
 
-- <i class="fab fa-csharp"></i> **C#:** [Skill level and/or years of experience].
-- <i class="fab fa-python"></i> **Python:** [Skill level and/or years of experience].
-- <i class="fab fa-html5"></i> **HTML:** [Skill level and/or years of experience].
-- <i class="fab fa-css3-alt"></i> **CSS:** [Skill level and/or years of experience].
-- <i class="fab fa-js"></i> **JavaScript:** [Skill level and/or years of experience].
+## Languages
+- <i class="fa fa-csharp"></i> **C#:** Intermediate.
+- <i class="fa fa-python"></i> **Python:** Advanced level.
+- <i class="fa fa-java"></i> **Java:** Advanced level.
+- <i class="fa fa-sql"></i> **SQL:** Intermediate.
+- <i class="fa fa-kotlin"></i> **Kotlin:** Intermediate.
+
+
+### WEB frontend
+- <i class="fa fa-html5"></i> **HTML:** Advanced level.
+- <i class="fa fa-css3-alt"></i> **CSS:** Advanced level.
+- <i class="fa fa-js"></i> **JavaScript:** Advanced level.
 
 
 
