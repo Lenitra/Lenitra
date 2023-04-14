@@ -20,11 +20,13 @@ I'm Thomas Lemartinel, a web and game developer with experience in C#, Python, H
 - <i class="fa fa-kotlin"></i> **Kotlin:** Intermediate.
 
 
-### WEB frontend
+### WEB Frontend
 - <i class="fa fa-html5"></i> **HTML:** Advanced level.
 - <i class="fa fa-css3-alt"></i> **CSS:** Advanced level.
 - <i class="fa fa-js"></i> **JavaScript:** Advanced level.
 
+### WEB Backend
+- <i class="fa fa-flask"></i> **Python Flask:** Advanced level.
 
 
 ## Connect with Me
