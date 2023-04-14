@@ -1,17 +1,28 @@
-<h1 align="center">Salut 👋, je suis Thomas Lemartinel</h1>
-<h3 align="center">Je suis titulaire d'un licence informatique</h3>
+# Hi there! 👋
+
+I'm Thomas Lemartinel, a web and game developer with experience in C#, Python, HTML, CSS, and JavaScript. 
+
+- 🔭 I’m currently working on my first mobile game : Peggle Breaker and and on a web application related to hikes named A2MainsEnLAir.
+- 🌱 I’m currently learning the game engine Unity.
+- 💬 Ask me about anything related to web and game development.
+- 📫 How to reach me: by Discord or by mail : thomaslemartinel@gmail.com.
+- 😄 Pronouns: He.
+
+## My Skills
+
+- **C#**
+- **Python** 
+- **HTML** 
+- **CSS** 
+- **JavaScript** 
 
 
+## Connect with Me
 
-<h3 align="left">Mes langages et outils :</h3>
-<p align="left">
-  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png" alt="kotlin" width="50" height="40"/>
-</p>
+- [Email](mailto:thomaslemartinel@gmail.com)
+- [Discord](https://discord.com/invite/kcS4TzjFhv)
+
+## Conclusion
+Thanks for taking the time to check out my GitHub readme profile! If you're interested in collaborating on a project or have any questions about my work, please don't hesitate to reach out to me. I'm always eager to connect with other developers and learn from their experiences.
+
+Thanks again for stopping by, and happy coding!
