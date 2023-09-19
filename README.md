@@ -5,7 +5,7 @@
 
 I'm Thomas Lemartinel, a web and game developer with experience in C#, Python, HTML, CSS, and JavaScript. 
 
-- 🔭 I’m currently working on my first mobile game : Peggle Breaker and and on a web application related to hikes named A2MainsEnLAir.
+- 🔭 I’m currently working on my mobile game : Festy-Games!
 - 🌱 I’m currently learning the game engine Unity.
 - 💬 Ask me about anything related to web and game development.
 - 📫 How to reach me: by Discord or by mail : thomaslemartinel@gmail.com.
