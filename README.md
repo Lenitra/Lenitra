@@ -5,28 +5,27 @@
 
 I'm Thomas Lemartinel, a web and game developer with experience in C#, Python, HTML, CSS, and JavaScript. 
 
-- 🔭 I’m currently working on my mobile game : Festy-Games!
 - 🌱 I’m currently learning the game engine Unity.
 - 💬 Ask me about anything related to web and game development.
-- 📫 How to reach me: by Discord or by mail : thomaslemartinel@gmail.com.
 - 😄 Pronouns: He.
 
 
 ## Languages
-- <i class="fa fa-csharp"></i> **C#:** Intermediate.
-- <i class="fa fa-python"></i> **Python:** Advanced level.
-- <i class="fa fa-java"></i> **Java:** Advanced level.
-- <i class="fa fa-sql"></i> **SQL:** Intermediate.
-- <i class="fa fa-kotlin"></i> **Kotlin:** Intermediate.
+- <i class="fa fa-csharp"></i> **C#**
+- <i class="fa fa-python"></i> **Python**
+- <i class="fa fa-java"></i> **Java**
+- <i class="fa fa-sql"></i> **SQL**
 
 
 ### WEB Frontend
-- <i class="fa fa-html5"></i> **HTML:** Advanced level.
-- <i class="fa fa-css3-alt"></i> **CSS:** Advanced level.
-- <i class="fa fa-js"></i> **JavaScript:** Advanced level.
+- <i class="fa fa-html5"></i> **HTML**
+- <i class="fa fa-css3-alt"></i> **CSS**
+- <i class="fa fa-js"></i> **JavaScript**
 
 ### WEB Backend
-- <i class="fa fa-flask"></i> **Python Flask:** Advanced level.
+- <i class="fa fa-flask"></i> **Python Flask**
+- <i class="fa fa-django"></i> **Python Django**
+- <i class="fa fa-php"></i> **PHP**
 
 
 ## Connect with Me
