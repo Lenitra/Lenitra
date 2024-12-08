@@ -31,7 +31,7 @@ I'm Thomas Lemartinel, a web and game developer with experience in C#, Python, H
 ## Connect with Me
 
 - [Email](mailto:thomaslemartinel@gmail.com)
-- [Discord](https://discord.com/invite/kcS4TzjFhv)
+- [Discord](https://discord.gg/7sgXaAsv9Y)
 
 ## Conclusion
 Thanks for taking the time to check out my GitHub readme profile! If you're interested in collaborating on a project or have any questions about my work, please don't hesitate to reach out to me. I'm always eager to connect with other developers and learn from their experiences.
