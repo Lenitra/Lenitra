@@ -10,11 +10,10 @@ I'm Thomas Lemartinel, a web and game developer with experience in C#, Python, H
 - 😄 Pronouns: He.
 
 
-## Languages
+### Languages
 - <i class="fa fa-csharp"></i> **C#**
 - <i class="fa fa-python"></i> **Python**
 - <i class="fa fa-java"></i> **Java**
-- <i class="fa fa-sql"></i> **SQL**
 
 
 ### WEB Frontend
@@ -27,6 +26,11 @@ I'm Thomas Lemartinel, a web and game developer with experience in C#, Python, H
 - <i class="fa fa-flask"></i> **Python Flask**
 - <i class="fa fa-java"></i> **Java springboot**
 - <i class="fa fa-php"></i> **PHP**
+
+### Other
+- <i class="fa fa-unity"></i> **Unity**
+- <i class="fa fa-sql"></i> **SQL**
+- <i class="fa fa-mongodb"></i> **MongoDB**
 
 
 ## Connect with Me
