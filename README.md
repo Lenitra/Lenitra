@@ -21,10 +21,11 @@ I'm Thomas Lemartinel, a web and game developer with experience in C#, Python, H
 - <i class="fa fa-html5"></i> **HTML**
 - <i class="fa fa-css3-alt"></i> **CSS**
 - <i class="fa fa-js"></i> **JavaScript**
+- <i class="fa fa-vue"></i> **Vuejs**
 
 ### WEB Backend
 - <i class="fa fa-flask"></i> **Python Flask**
-- <i class="fa fa-django"></i> **Python Django**
+- <i class="fa fa-java"></i> **Java springboot**
 - <i class="fa fa-php"></i> **PHP**
 
 
