@@ -25,7 +25,6 @@ I'm Thomas Lemartinel, a web and game developer with experience in C#, Python, H
 ### WEB Backend
 - <i class="fa fa-flask"></i> **Python Flask**
 - <i class="fa fa-java"></i> **Java springboot**
-- <i class="fa fa-php"></i> **PHP**
 
 ### Other
 - <i class="fa fa-unity"></i> **Unity**
