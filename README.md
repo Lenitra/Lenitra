@@ -23,6 +23,7 @@ I'm Thomas Lemartinel, a web and game developer with experience in C#, Python, H
 - <i class="fa fa-vue"></i> **Vuejs**
 
 ### WEB Backend
+- <i class="fa fa-flask"></i> **Python FastAPI**
 - <i class="fa fa-flask"></i> **Python Flask**
 - <i class="fa fa-java"></i> **Java springboot**
 
@@ -30,6 +31,7 @@ I'm Thomas Lemartinel, a web and game developer with experience in C#, Python, H
 - <i class="fa fa-unity"></i> **Unity**
 - <i class="fa fa-sql"></i> **SQL**
 - <i class="fa fa-mongodb"></i> **MongoDB**
+- <i class="fa fa-mongodb"></i> **Bash**
 
 
 ## Connect with Me
