@@ -50,17 +50,6 @@
 
 Also: SQLAlchemy (async) and SQLModel, Caddy, Cloudflare Tunnel, Paper plugins for Minecraft (Java 21), Discord bots, Firefox and Safari extensions, VS Code extensions, WinForms, PWAs, and the Stripe, Spotify and Patreon APIs.
 
-## 📌 Featured projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [TGE Launcher](https://github.com/Lenitra/tge-launcher) | One-click launcher for a virtual trucking company in Euro Truck Simulator 2: updates the mod, configures TrucksBook and starts the game | C# · .NET 9 |
-| [Holo Project](https://github.com/Lenitra/holo_project) | Raspberry Pi home assistant with a four-sided holographic display, voice commands and a web remote | Python · Node.js · React |
-| [ORBITAL](https://github.com/Lenitra/test_fable5) | Real-time 3D satellite viewer: orbits propagated with SGP4 from TLEs, day/night Earth, clouds, bloom | Three.js · Vite |
-| [SonarQube → AI prompt](https://github.com/Lenitra/sonar-prompt-debug) | Firefox and Safari extension that condenses SonarQube issues into a ready-to-paste prompt, through the official API, without data leaving the browser | JavaScript |
-| [Terminal Macros](https://github.com/Lenitra/terminal-macro-vscode-ext) | VS Code extension: buttons in the status bar and a side panel to run your commands, with each project's scripts picked up automatically | JavaScript |
-| [FastAPI Project Initializer](https://github.com/Lenitra/FastApi-project-initializer) | Generates a FastAPI app from a list of entities: entity, repository and service layers, full CRUD, JWT auth with roles | Python · SQLModel |
-
 ## 📫 Connect with me
 
 - [Email](mailto:thomaslemartinel@gmail.com)
